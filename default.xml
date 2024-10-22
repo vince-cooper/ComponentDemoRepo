@@ -5,6 +5,8 @@
     <default revision="main"
              remote="origin"
              sync-j="4" />
+    
+    <project name="config" path="config" groups="config" />
 
     <project name="sdk_kext" path="sdk/sdk_kext" groups="sdk" />
     <project name="sdk_tools" path="sdk/sdk_tools" groups="sdk" />

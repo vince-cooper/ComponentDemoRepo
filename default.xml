@@ -11,8 +11,8 @@
     <project name="sdk_kext" path="sdk/sdk_kext" groups="sdk" />
     <project name="sdk_tools" path="sdk/sdk_tools" groups="sdk" />
 
-    <project name="widget_imageloader" path="widgets/widget_imageloader" groups="widgets" />
-    <project name="widget_logger" path="widgets/widget_logger" groups="widgets" />
+    <project name="lib_imageloader" path="libs/lib_imageloader" groups="libs" />
+    <project name="lib_logger" path="libs/lib_logger" groups="libs" />
 
     <project name="common_dataclass" path="commons/common_dataclass" groups="commons" />
     <project name="common_eventbus" path="commons/common_eventbus" groups="commons" />

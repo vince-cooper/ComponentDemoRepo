@@ -15,7 +15,6 @@
     <project name="lib_logger" path="libs/lib_logger" groups="libs" />
 
     <project name="common_module" path="commons/common_module" groups="commons" />
-    <project name="common_eventbus" path="commons/common_eventbus" groups="commons" />
 
     <project name="module_login" path="modules/module_login" groups="modules" />
     <project name="module_my" path="modules/module_my" groups="modules" />

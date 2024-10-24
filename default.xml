@@ -9,16 +9,13 @@
     <project name="config" path="config" groups="config" />
 
     <project name="sdk_kext" path="sdk/sdk_kext" groups="sdk" />
-    <project name="sdk_tools" path="sdk/sdk_tools" groups="sdk" />
 
     <project name="lib_imageloader" path="libs/lib_imageloader" groups="libs" />
-    <project name="lib_logger" path="libs/lib_logger" groups="libs" />
 
     <project name="common_module" path="commons/common_module" groups="commons" />
 
     <project name="module_login" path="modules/module_login" groups="modules" />
     <project name="module_my" path="modules/module_my" groups="modules" />
 
-    <project name="app_im" path="apps/app_im" groups="apps" />
-    <project name="app_chat" path="apps/app_chat" groups="apps" />
+    <project name="app_main" path="apps/app_im" groups="apps" />
 </manifest>

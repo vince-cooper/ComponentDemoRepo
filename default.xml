@@ -17,5 +17,5 @@
     <project name="module_login" path="modules/module_login" groups="modules" />
     <project name="module_my" path="modules/module_my" groups="modules" />
 
-    <project name="app_main" path="apps/app_im" groups="apps" />
+    <project name="app_main" path="apps/app_main" groups="apps" />
 </manifest>

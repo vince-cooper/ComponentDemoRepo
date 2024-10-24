@@ -14,9 +14,9 @@
     <project name="lib_imageloader" path="libs/lib_imageloader" groups="libs" />
     <project name="lib_logger" path="libs/lib_logger" groups="libs" />
 
+    <project name="common_module" path="commons/common_module" groups="commons" />
     <project name="common_dataclass" path="commons/common_dataclass" groups="commons" />
     <project name="common_eventbus" path="commons/common_eventbus" groups="commons" />
-    <project name="common_arouter" path="commons/common_arouter" groups="commons" />
 
     <project name="module_login" path="modules/module_login" groups="modules" />
     <project name="module_home" path="modules/module_home" groups="modules" />

@@ -19,7 +19,6 @@
     <project name="common_eventbus" path="commons/common_eventbus" groups="commons" />
 
     <project name="module_login" path="modules/module_login" groups="modules" />
-    <project name="module_home" path="modules/module_home" groups="modules" />
     <project name="module_my" path="modules/module_my" groups="modules" />
 
     <project name="app_im" path="apps/app_im" groups="apps" />
